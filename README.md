@@ -1,6 +1,10 @@
 <!-- ===== HEADER ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,50:9B59B6,100:F39C12&height=220&section=header&text=Satpal%20Raj%20Chouhan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Administrator%20%7C%20AWS%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
 
+
+<img width="437" height="432" alt="image" src="https://github.com/user-attachments/assets/7bc93c15-b273-4cb2-80e5-01efd8cde319" />
+
+
 <div align="center">
 
 <a href="https://github.com/chouhansatpal">
